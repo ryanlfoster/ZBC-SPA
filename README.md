@@ -1,6 +1,7 @@
+[![Build status](https://badge.buildkite.com/51a830d108416f285f1c1575cd7260f8f1aa14573f9f3f9ece.svg)](https://buildkite.com/zmsc/aem-spa-example)
+
 #AEM SPA / Angular POC
 ========
-[![Build status](https://badge.buildkite.com/51a830d108416f285f1c1575cd7260f8f1aa14573f9f3f9ece.svg)](https://buildkite.com/zmsc/aem-spa-example)
 
 This is a example project which was presented at Connect Web Experience conference Basel 2015.  
 Its an proof of concept site done using a Single Page Application style on the AEM platform.
